@@ -4,6 +4,7 @@
 ### Запуск
     python main.py data1.csv data2.csv data3.csv --report payout
 Примеры запуска:
+
 ![пример](examples/formatted_report.png)
 
 ### Тесты
